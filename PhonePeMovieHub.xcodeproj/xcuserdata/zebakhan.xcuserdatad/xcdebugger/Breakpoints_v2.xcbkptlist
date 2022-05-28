@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "11446098-2468-42D9-A18F-5F02C093DA9C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80037F07-0E66-47CB-8E7C-E2B54F9A2C55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhonePeMovieHub/ViewModel/MoviePopularViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getPopularMovie(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80037F07-0E66-47CB-8E7C-E2B54F9A2C55 - cba7967cb04855cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhonePeMovieHub.FilteredError&gt;, Swift.Optional&lt;Swift.Int&gt;) -&gt; () in PhonePeMovieHub.MoviePopularViewModel.getPopularMovie(completion: (Swift.Optional&lt;PhonePeMovieHub.FilteredError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PhonePeMovieHub"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zebakhan/Desktop/workspace/Phonepe/PhonePeMovieHub/PhonePeMovieHub/ViewModel/MoviePopularViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "80037F07-0E66-47CB-8E7C-E2B54F9A2C55 - cba7967cb04855cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhonePeMovieHub.FilteredError&gt;, Swift.Optional&lt;Swift.Int&gt;) -&gt; () in PhonePeMovieHub.MoviePopularViewModel.getPopularMovie(completion: (Swift.Optional&lt;PhonePeMovieHub.FilteredError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PhonePeMovieHub"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zebakhan/Desktop/workspace/Phonepe/PhonePeMovieHub/PhonePeMovieHub/ViewModel/MoviePopularViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F8D19C5-9A7F-4D6E-8856-A4EB422E3606"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhonePeMovieHub/Controllers/MovieTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BCF9465-F261-46D9-9A1E-5214F62A7AAC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhonePeMovieHub/ViewModel/MoviePopularViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getPopularMovie(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84B0014D-C2CA-41E9-A4B9-C28EF716F9AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhonePeMovieHub/ViewModel/MoviePopularViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getPopularMovie(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
